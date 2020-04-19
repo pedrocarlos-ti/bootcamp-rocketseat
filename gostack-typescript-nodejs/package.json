@@ -1,0 +1,13 @@
+{
+  "name": "gostack-typescript-nodejs",
+  "version": "1.0.0",
+  "main": "src/app.ts",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.6",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
